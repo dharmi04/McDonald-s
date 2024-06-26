@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { motion, useTransform, useScroll } from "framer-motion";
 import { useRef, useEffect } from "react";
 import './menu.css';
